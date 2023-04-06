@@ -60,8 +60,11 @@ h2 {
 }
 
 .container {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   padding: 50px 0;
+}
+img {
+  width: 400px;
 }
 </style>
